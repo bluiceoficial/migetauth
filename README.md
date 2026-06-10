@@ -1,7 +1,9 @@
 # MiGetAuth
 
 > [!NOTE]
-> Este software ainda está em desenvolvimento e não deve ser utilizado em ambientes de produção ou para proteger contas.
+> This repository has been migrated to Codeberg, please see: https://codeberg.org/bluice/migetauth
+
+Este software ainda está em desenvolvimento e não deve ser utilizado em ambientes de produção ou para proteger contas.
 
 MiGetAuth é um software livre criado para gerar códigos de autenticação de dois fatores (2FA) de maneira segura e confiável.
 
