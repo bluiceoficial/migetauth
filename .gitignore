@@ -9,3 +9,9 @@ build/
 dist/
 migetauth.spec
 compile
+
+# venv
+venv/
+
+# agent instructions
+AGENTS.md
