@@ -26,16 +26,15 @@ O MiGetAuth tem como foco a simplicidade, transparência e liberdade.
 
 ## 💙 Apoie
 
-- GitHub: https://github.com/sponsors/mugomes
-- More: https://mugomes.github.io/apoie.html
+- GitHub: https://github.com/sponsors/bluiceoficial
 
 ## 👤 Autor
 
 **Murilo Gomes Julio**
 
-🔗 [https://mugomes.github.io](https://mugomes.github.io)
+🔗 [https://www.bluice.com.br](https://www.bluice.com.br)
 
-📺 [https://youtube.com/@mugomesoficial](https://youtube.com/@mugomesoficial)
+📺 [https://youtube.com/@bluiceoficial](https://youtube.com/@bluiceoficial)
 
 ---
 
@@ -43,7 +42,7 @@ O MiGetAuth tem como foco a simplicidade, transparência e liberdade.
 
 The MiGetAuth is provided under:
 
-[SPDX-License-Identifier: GPL-2.0-only](https://github.com/mugomes/migetauth/blob/main/LICENSE)
+[SPDX-License-Identifier: GPL-2.0-only](https://github.com/bluiceoficial/migetauth/blob/main/LICENSE)
 
 Beign under the terms of the GNU General Public License version 2 only.
 
