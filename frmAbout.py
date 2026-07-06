@@ -1,7 +1,7 @@
 # Copyright (C) 2026 Murilo Gomes Julio
 # SPDX-License-Identifier: GPL-2.0-only
 
-# Site: https://github.com/mugomes
+# Site: https://github.com/bluiceoficial
 
 import tkinter as tk
 import ttkbootstrap as ttk
@@ -34,7 +34,7 @@ def showWindow():
     lblDeveloper.pack(anchor="nw", padx=5, pady=(7, 3))
 
     lblSite = ttk.Label(
-        frmAbout, text='Site: https://github.com/mugomes/migetauth', font=("", 12)
+        frmAbout, text='Site: https://github.com/bluiceoficial/migetauth', font=("", 12)
     )
     lblSite.pack(anchor="nw", padx=5, pady=(7, 3))
 

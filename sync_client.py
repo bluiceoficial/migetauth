@@ -1,6 +1,8 @@
 # Copyright (C) 2026 Murilo Gomes Julio
 # SPDX-License-Identifier: GPL-2.0-only
 
+# Site: https://github.com/bluiceoficial
+
 import io, os, zipfile, urllib.request, urllib.error, urllib.parse
 from core import BASE_DIR, DB_NAME, KEY_FILE
 

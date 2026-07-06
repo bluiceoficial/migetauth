@@ -1,6 +1,8 @@
 # Copyright (C) 2026 Murilo Gomes Julio
 # SPDX-License-Identifier: GPL-2.0-only
 
+# Site: https://github.com/bluiceoficial
+
 import threading
 import tkinter as tk
 import ttkbootstrap as ttk

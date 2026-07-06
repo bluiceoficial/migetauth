@@ -1,7 +1,7 @@
 # Copyright (C) 2026 Murilo Gomes Julio
 # SPDX-License-Identifier: GPL-2.0-only
 
-# Site: https://github.com/mugomes
+# Site: https://github.com/bluiceoficial
 
 import sqlite3, os
 from cryptography.fernet import Fernet

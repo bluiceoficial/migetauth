@@ -1,7 +1,7 @@
 # Copyright (C) 2026 Murilo Gomes Julio
 # SPDX-License-Identifier: GPL-2.0-only
 
-# Site: https://github.com/mugomes
+# Site: https://github.com/bluiceoficial
 
 import threading, time, webbrowser, frmAbout, frmSyncClient
 import ttkbootstrap as tb
@@ -44,10 +44,10 @@ class AuthApp:
         mnuAbout.add_command(label="Sobre MiGetAuth", command=self.showAbout)
 
     def checkUpdate(self):
-        webbrowser.open(url="https://github.com/mugomes/migetauth/releases")
+        webbrowser.open(url="https://github.com/bluiceoficial/migetauth/releases")
 
     def supportApp(self):
-        webbrowser.open(url="https://github.com/mugomes/migetauth")
+        webbrowser.open(url="https://github.com/bluiceoficial/migetauth")
 
     def showAbout(self):
         frmAbout.showWindow()

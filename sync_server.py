@@ -1,6 +1,8 @@
 # Copyright (C) 2026 Murilo Gomes Julio
 # SPDX-License-Identifier: GPL-2.0-only
-#
+
+# Site: https://github.com/bluiceoficial
+
 # Servidor de sincronia — executa no PC para receber/enviar DB + chave.
 # Uso:  python sync_server.py
 #       python sync_server.py --port 5555 --password minhasenha
