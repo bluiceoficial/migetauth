@@ -3,7 +3,7 @@
 
 # Site: https://github.com/mugomes
 
-import threading, time, webbrowser, frmAbout
+import threading, time, webbrowser, frmAbout, frmSyncClient
 import ttkbootstrap as tb
 from ttkbootstrap.constants import *
 from tkinter import messagebox, simpledialog, ttk, Menu, PhotoImage
@@ -31,6 +31,10 @@ class AuthApp:
         barmenuMain = Menu(self.root)
         self.root.config(menu=barmenuMain)
 
+        mnuTools = Menu(barmenuMain, tearoff=0)
+        barmenuMain.add_cascade(label="Ferramentas", menu=mnuTools)
+        mnuTools.add_command(label="Sincronizar com PC", command=self.showSyncClient)
+
         mnuAbout = Menu(barmenuMain, tearoff=0)
         barmenuMain.add_cascade(label="Sobre", menu=mnuAbout)
         mnuAbout.add_command(label="Verificar Atualizações", command=self.checkUpdate)
@@ -47,6 +51,9 @@ class AuthApp:
 
     def showAbout(self):
         frmAbout.showWindow()
+
+    def showSyncClient(self):
+        frmSyncClient.showWindow()
 
     def setup_ui(self):
         main_frame = tb.Frame(self.root)
