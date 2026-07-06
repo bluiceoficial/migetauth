@@ -1,7 +1,5 @@
 # MiGetAuth
 
-Este software ainda está em desenvolvimento e não deve ser utilizado em ambientes de produção ou para proteger contas.
-
 MiGetAuth é um software livre criado para gerar códigos de autenticação de dois fatores (2FA) de maneira segura e confiável.
 
 O funcionamento é totalmente offline, sem necessidade de conexão com a internet ou integração com serviços externos, oferecendo maior privacidade e independência ao usuário. Além disso, o projeto não depende de bibliotecas de terceiros para a geração dos códigos, utilizando apenas implementações próprias e padrões abertos.
