@@ -24,7 +24,7 @@ def showWindow():
     lblNameApp.pack(anchor="nw", padx=5, pady=(7, 3))
 
     lblVersion = ttk.Label(
-        frmAbout, text='Version: 0.1.0', font=("", 12)
+        frmAbout, text='Version: 1.0.0', font=("", 12)
     )
     lblVersion.pack(anchor="nw", padx=5, pady=(7, 3))
 
